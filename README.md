@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm <a href="https://github.com/osllogon" target="blank">Antonio</a></h1>
+<h1 align="center">Hi there! I'm <a href="https://github.com/antodiazcano" target="blank">Antonio</a></h1>
 
 I am a Data Scientist at Ericsson Cognitive Software. I am passionate about Artificial Intelligence, and my Research interests are Explainable Artificial Intelligence and Geometric Deep Learning.
 
